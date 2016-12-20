@@ -10,10 +10,10 @@ Allow yielding to multiple named blocks in an Ember component.
 
 <details open=true>
  <summary>
-  <a href="#user-content-id-string">**Why now?**</a>
+  <button><a href="#user-content-id-string">**Why now?**</a></button>
  </summary>
  <p></p>
- <p id="id-string">
+ <p>
   Glimmer is stable and Ember 2.x has been around for a while. It's about time to get back to this idea since it was always well-liked but just happened to never come up at the right time.
  </p>
 </details>
