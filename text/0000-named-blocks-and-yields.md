@@ -10,7 +10,7 @@ Allow yielding to multiple named blocks in an Ember component.
 
 <details open=true>
  <summary>
-  **Why now?**
+  <a id="whyNow" href="#whyNow">**Why now?**</a>
  </summary>
  <p></p>
  <p>
@@ -20,7 +20,7 @@ Allow yielding to multiple named blocks in an Ember component.
 
 <details>
  <summary>
-  **Why ever?**
+  <a id="whyEver" href="#whyEver">**Why ever?**</a>
  </summary>
  <p></p>
  <p>
@@ -152,7 +152,7 @@ The proposal conflicts with the current behavior of `else` inverse blocks. It so
 
 <details>
  <summary>
-  Alternative to inverse blocks introduced by this proposal
+  <a id="elseProposed" href="#elseProposed">Alternative to inverse blocks introduced by this proposal</a>
  </summary>
  <p>
   > **some-component.hbs**
@@ -174,7 +174,7 @@ The proposal conflicts with the current behavior of `else` inverse blocks. It so
 
 <details>
  <summary>
-  Compared to the current syntax
+  <a id="elseCurrent" href="#elseCurrent">Compared to the current syntax</a>
  </summary>
  <p>
   > **some-component.hbs**
@@ -206,7 +206,7 @@ The main criticism of [the closed RFC](https://github.com/emberjs/rfcs/pull/43) 
 
 <details>
  <summary>
-  Dynamic named block/yields implementation
+  <a id="dynamicImpl" href="#dynamicImpl">Dynamic named block/yields implementation</a>
  </summary>
  <p>
   > **some-component.hbs**
@@ -244,7 +244,7 @@ Some people (including me) are having doubts about the `:` delimiter syntax for 
 
 <details>
  <summary>
-  With `@`
+  <a id="withAt" href="#withAt">With `@`</a>
  </summary>
  <p>
   > **some-component-at.hbs**
@@ -266,7 +266,7 @@ Some people (including me) are having doubts about the `:` delimiter syntax for 
 
 <details>
  <summary>
-  With `::`
+  <a id="withDoubleColon" href="#withDoubleColon">With `::`</a>
  </summary>
  <p>
   > **some-component-double.hbs**
