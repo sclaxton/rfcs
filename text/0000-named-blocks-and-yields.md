@@ -266,9 +266,9 @@ Some people (including me) are having doubts about the `:` delimiter syntax for 
 
 <details>
  <summary>
-  <a href="javascript:void(0)">With `::`</a>
+  <a href="#withDoubleExample">With `::`</a>
  </summary>
- <p>
+ <p id="withDoubleExample">
   > **some-component-double.hbs**
   > ```hbs
   > {{yield::block-b 'B'}}
