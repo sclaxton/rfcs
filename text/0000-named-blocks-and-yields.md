@@ -10,7 +10,7 @@ Allow yielding to multiple named blocks in an Ember component.
 
 <details open=true>
  <summary>
-  <button><a href="#user-content-id-string">**Why now?**</a></button>
+  <a>**Why now?**</a>
  </summary>
  <p></p>
  <p>
