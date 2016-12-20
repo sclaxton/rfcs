@@ -266,7 +266,7 @@ Some people (including me) are having doubts about the `:` delimiter syntax for 
 
 <details>
  <summary>
-  <a href="#withDoubleExample" onclick="event.preventDefault();">With `::`</a>
+  <button>With `::`</button>
  </summary>
  <p>
   > **some-component-double.hbs**
