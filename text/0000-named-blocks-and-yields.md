@@ -10,7 +10,7 @@ Allow yielding to multiple named blocks in an Ember component.
 
 <details open=true>
  <summary>
-  <a>**Why now?**</a>
+  <a href="#thisIdDoesNotExist">**Why now?**</a>
  </summary>
  <p></p>
  <p>
