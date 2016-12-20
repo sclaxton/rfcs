@@ -244,7 +244,7 @@ Some people (including me) are having doubts about the `:` delimiter syntax for 
 
 <details>
  <summary>
-  <a id="withAt" href="#withAt">With `@`</a>
+  <a id="withAt" href="#withAt"><span>With `@`</span></a>
  </summary>
  <p>
   > **some-component-at.hbs**
@@ -266,7 +266,7 @@ Some people (including me) are having doubts about the `:` delimiter syntax for 
 
 <details>
  <summary>
-  <button>With `::`</button>
+  <mark>With `::`</mark>
  </summary>
  <p>
   > **some-component-double.hbs**
