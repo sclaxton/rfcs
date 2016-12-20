@@ -244,7 +244,7 @@ Some people (including me) are having doubts about the `:` delimiter syntax for 
 
 <details>
  <summary>
-  <a id="withAt" href="#withAt"><span>With `@`</span></a>
+  <a id="withAt" href="#withAt"><i>With <code>@</code></i></a>
  </summary>
  <p>
   > **some-component-at.hbs**
@@ -252,7 +252,7 @@ Some people (including me) are having doubts about the `:` delimiter syntax for 
   > {{yield@block-b 'B'}}
   > {{yield@block-a 'A'}}
   > ```
-  >
+  >12
   > **sample-invocation-at-syntax.hbs**
   > ```hbs
   > {{#some-component-at@block-a as |block|}}
